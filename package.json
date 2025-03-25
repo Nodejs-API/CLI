@@ -1,5 +1,5 @@
 {
-  "name": "CLI",
+  "name": "@4bee/Hello-cli",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://4BFC@github.com/Nodejs-API/CLI.git",
