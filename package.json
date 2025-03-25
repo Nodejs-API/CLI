@@ -5,6 +5,7 @@
   "repository": "https://4BFC@github.com/Nodejs-API/CLI.git",
   "author": "4BFC <4bee.code@gamil.com>",
   "license": "MIT",
+  "description": "Hello, CLI",
   "bin": {
     "hello-cli": "./index.js"
   },
