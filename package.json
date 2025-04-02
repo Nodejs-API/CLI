@@ -1,0 +1,26 @@
+{
+  "name": "dex-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "buy:dai": "node index.js buy 0x6B175474E89094C44Da98b954EedeAC495271d0F 0.01",
+    "dex": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://4BFC@github.com/Nodejs-API/CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nodejs-API/CLI/issues"
+  },
+  "homepage": "https://github.com/Nodejs-API/CLI#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5"
+  }
+}
